@@ -19,5 +19,6 @@ My favourite images can be found below:
 #### The Pinwheel Galaxy in the constellation Ursa Major (over 21 million lightyears away!), captured July 2021
 ![](https://github.com/matthiasarndt/Astrophotography/blob/main/M101%20%5BData%20-%202021-07-15%5D%20%5BProcess%20-%202021-10-11%5D.png)
 
-#### Below is a comparison showing my progress over the past two years. The images on the left were taken in March 2020 and the two on the right in September 2021. The upper target is the Andromeda Galaxy (M31) and the lower target is the Pleiades (M45):
+#### Progress between March 2020 and September 
+Below is a comparison showing my progress over the past two years. The images on the left were taken in March 2020 and the two on the right in September 2021. The upper target is the Andromeda Galaxy (M31) and the lower target is the Pleiades (M45):
 ![](https://github.com/matthiasarndt/Astrophotography/blob/main/Comparison%20March%202020%20vs%20September%202021.png)
