@@ -15,3 +15,6 @@ My favourite images can be found below:
 
 #### The Pleiades in the constellation Taurus, captured September 2021
 ![](https://github.com/matthiasarndt/Astrophotography/blob/main/M45%20%5BData%20-%202020-09-18%5D%20%5BProcess%202021-10-03%5D.png)
+
+#### The Andromeda Galaxy in the constellation Andromeda, captured September 2021
+![](https://github.com/matthiasarndt/Astrophotography/blob/main/M31%20%5BData%20-%202021-09-16%2C%202021-01-06%5D%20%5BProcess%20-%202021-10-16%5D.png)
