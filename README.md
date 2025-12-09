@@ -1,4 +1,4 @@
-# Astronomy & Photography of Deep Space Objects  
+# Deep Space Astronomy
 
 ## My Equipment:
 
