@@ -85,13 +85,13 @@ My equipment is summarised below:
 <img src="https://github.com/matthiasarndt/Astrophotography/blob/main/Saturn-Jupiter%20Conjunction%20%5BData%20-%202020-12-20%5D%20%5BProcess%20-%202020-12-21%5D.png" height="600">
 </p>
 
-### The Double Cluster (NGC 869) in the constellation Perseus:
+#### The Double Cluster (NGC 869) in the constellation Perseus:
 
 <p align="center">
 <img src="https://github.com/matthiasarndt/Astrophotography/blob/main/NGC869%20%26%20NGC884%20%5BData%20-%202021-07-20%5D%20%5BProcess%202021-07-21%5D.png" height="600">
 </p>
 
-### Widefield image of the Pacman Nebula (NGC 281) and the stars Archird and Shedar in the constellation Cassiopeia:
+#### Widefield image of the Pacman Nebula (NGC 281) and the stars Archird and Shedar in the constellation Cassiopeia:
 
 <p align="center">
 <img src="https://github.com/matthiasarndt/Astrophotography/blob/main/NGC281%20%5BData%20-%202021-07-20%5D%20%5BProcess%202021-07-21%5D%20-%20Copy.png" height="600">
